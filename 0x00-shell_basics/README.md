@@ -1,0 +1,2 @@
+This directory contains the following scripts
+1. a script that prints the absolute path name of the current working directory.
