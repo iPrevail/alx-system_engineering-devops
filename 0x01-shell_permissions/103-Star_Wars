@@ -1,2 +1,2 @@
 #!/bin/bash
-asciiplayer ./*
+telnet towel.blinkenlights.nl
